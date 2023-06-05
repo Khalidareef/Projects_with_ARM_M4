@@ -1,0 +1,11 @@
+
+#ifndef STP_CONFIG_H
+#define STP_CONFIG_H
+
+
+#define STP_SERIAL_DATA   MGPIO_PORTA,0
+#define STP_SHIFT_CLK     MGPIO_PORTA,1
+#define STP_STORE_CLK     MGPIO_PORTA,2
+
+
+#endif
